@@ -1,0 +1,39 @@
+dept_no,count,title
+d001,3355,Senior Staff
+d001,1037,Staff
+d002,2884,Senior Staff
+d002,875,Staff
+d003,929,Staff
+d003,2996,Senior Staff
+d004,3611,Engineer
+d004,426,Assistant Engineer
+d004,1457,Technique Leader
+d004,10189,Senior Engineer
+d004,390,Senior Staff
+d004,99,Staff
+d005,4191,Engineer
+d005,329,Senior Staff
+d005,1590,Technique Leader
+d005,118,Staff
+d005,496,Assistant Engineer
+d005,11644,Senior Engineer
+d006,1051,Engineer
+d006,125,Assistant Engineer
+d006,398,Technique Leader
+d006,2874,Senior Engineer
+d007,2650,Staff
+d007,8685,Senior Staff
+d007,1,Manager
+d008,664,Senior Engineer
+d008,1,Manager
+d008,244,Engineer
+d008,94,Technique Leader
+d008,880,Staff
+d008,2834,Senior Staff
+d008,21,Assistant Engineer
+d009,545,Senior Engineer
+d009,22,Assistant Engineer
+d009,188,Engineer
+d009,1048,Staff
+d009,64,Technique Leader
+d009,3453,Senior Staff
