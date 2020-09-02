@@ -15,7 +15,7 @@ Development (d005) should anticipate 9,281 retirements. Production (d004) is not
 ![retiring_titles.png](Data/retiring_titles.png)
 
 - The included [unique_titles.csv](Data/unique_titles.csv) lists retirement-eligible employees with their most recent title since many employees may have held multiple titles during their tenure at Pewlett-Hackard.
-- To assist with succession planning, employees were also identified who may be considered for mentorship opportunities. The included [mentorship_eligibility.csv](Data/mentorship_eligiblity.csv) includes employees born in 1965 and includes their start date and title within Pewlett-Hackard. 
+- To assist with succession planning, employees were also identified who may be considered for mentorship opportunities. The included [mentorship_eligibility.csv](Data/mentorship_eligibility.csv) includes employees born in 1965 and includes their start date and title within Pewlett-Hackard. 
 
 ## Summary
 - Based on the included analysis, 36,619 roles will need to be filled with anticipated retirements. 
